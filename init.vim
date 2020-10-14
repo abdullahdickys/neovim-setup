@@ -22,6 +22,11 @@ call plug#begin("~/.vim/plugged")
 	Plug 'vim-airline/vim-airline'
   Plug 'vim-airline/vim-airline-themes'
 
+	Plug 'terryma/vim-multiple-cursors'
+  Plug 'mhinz/vim-startify'
+  Plug 'mattn/emmet-vim'
+  Plug 'tpope/vim-commentary'
+
   " File Explorer with Icons
   Plug 'scrooloose/nerdtree'
   Plug 'ryanoasis/vim-devicons'
